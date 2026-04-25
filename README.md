@@ -13,16 +13,6 @@
 - пагинация
 - Swagger и ReDoc
 
-## Стек
-
-- Python
-- Django
-- Django REST Framework
-- django-filter
-- drf-spectacular
-
-## Сущности
-
 ### Project
 
 - `name` - название проекта
